@@ -1,0 +1,6 @@
+[submodule "instagram-web"]
+	path = instagram-web
+	url = https://github.com/khoa300504/instagram-web
+[submodule "instagram-api"]
+	path = instagram-api
+	url = https://github.com/khoa300504/instagram-api
